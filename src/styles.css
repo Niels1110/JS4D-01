@@ -19,7 +19,7 @@ body {
   border-top: calc(var(--body-border-width, 10vh) * 1 / 1 + 0px) solid white;
   border-bottom: calc(var(--body-border-width, 10vh) * 1 / 1 + 0px) solid white;
   color: white;
-  overflow: hidden;
+  overflow-x: hidden;
   display: flex;
   align-items: stretch;
 }
@@ -36,6 +36,7 @@ p {
   text-shadow: 5px 6px 0px rgba(0, 0, 0, 0.9);
   letter-spacing: 1.2px;
 }
+
 #main-scene {
   display: flex;
   width: 100%;
