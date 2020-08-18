@@ -1,0 +1,1118 @@
+{
+    "description": "Activity category codes used by the US Bureau of Labor Statistics in its American Time Use Survey.  Categories either come with a set of example activities, or are standalone 'miscellaneous' categories denoted 'not elsewhere classified'.",
+    "source": "https://www.bls.gov/tus/lexicons.htm",
+    "categories": [
+        {
+            "category": "Sleeping",
+            "code": "010101",
+            "examples": [
+                "getting some shut-eye",
+                "dozing off",
+                "getting up",
+                "napping",
+                "falling asleep",
+                "sleeping",
+                "waking up",
+                "dreaming",
+                "cat napping",
+                "dozing"
+            ]
+        },
+        {
+            "category": "Sleeplessness",
+            "code": "010102",
+            "examples": [
+                "tossing and turning",
+                "lying awake",
+                "counting sheep",
+                "insomnia"
+            ]
+        },
+        {
+            "category": "Sleeping, not elsewhere classified",
+            "code": "010199"
+        },
+        {
+            "category": "Washing, dressing and grooming oneself",
+            "code": "010201",
+            "examples": [
+                "washing feet",
+                "combing hair",
+                "washing face",
+                "doing nails",
+                "brushing/flossing teeth",
+                "cutting own hair",
+                "perming own hair",
+                "getting dressed/undressed",
+                "filing nails",
+                "washing hands",
+                "putting on pajamas",
+                "putting on shoes",
+                "cleaning contact lenses",
+                "brushing lint off clothing",
+                "putting on makeup",
+                "gargling mouthwash",
+                "changing clothes",
+                "shaving",
+                "running bath",
+                "putting on nail polish",
+                "laying clothes out",
+                "cleaning ears",
+                "doing own hair",
+                "removing curlers",
+                "shaving legs",
+                "brushing hair",
+                "putting on hand cream",
+                "putting in contact lenses",
+                "using the bathroom",
+                "washing hair",
+                "putting on night cream",
+                "blow-drying hair",
+                "grooming",
+                "bathing/showering"
+            ]
+        },
+        {
+            "category": "Grooming, not elsewhere classified",
+            "code": "010299",
+            "examples": [
+                "getting a haircut from spouse/friend (unpaid)",
+                "mom braided my hair",
+                "friend rubbed suntan lotion on me"
+            ]
+        },
+        {
+            "category": "Health-related self care",
+            "code": "010301",
+            "examples": [
+                "taking insulin",
+                "exercising or therapy for medical reasons",
+                "applying ointment",
+                "resting because of injury",
+                "putting ice on injury",
+                "bandaging ankle",
+                "giving oneself a shot",
+                "changing oxygen",
+                "giving oneself an injection",
+                "resting because of illness",
+                "doing childbirth exercises",
+                "dressing a wound",
+                "testing blood sugar level",
+                "taking cough drops",
+                "taking medicine",
+                "doing stress management exercises",
+                "meditating (not religious)",
+                "taking vitamins",
+                "gargling for sore throat"
+            ]
+        },
+        {
+            "category": "Self care, not elsewhere classified",
+            "code": "010399",
+            "examples": [
+                "feeling sick"
+            ]
+        },
+        {
+            "category": "Personal/Private activities",
+            "code": "010401",
+            "examples": [
+                "personal activity, unspecified",
+                "making out",
+                "private activity, unspecified",
+                "necking",
+                "cuddling partner in bed",
+                "having sex",
+                "spouse gave me a massage"
+            ]
+        },
+        {
+            "category": "Personal activities, not elsewhere classified",
+            "code": "010499"
+        },
+        {
+            "category": "Personal emergencies",
+            "code": "010501",
+            "examples": [
+                "being involved in a personal accident",
+                "being involved in an accident requiring emergency care",
+                "waiting for ambulance",
+                "stanching blood flow",
+                "losing consciousness"
+            ]
+        },
+        {
+            "category": "Personal care emergencies, not elsewhere classified",
+            "code": "010599"
+        },
+        {
+            "category": "Personal Care, not elsewhere classified",
+            "code": "019999"
+        },
+        {
+            "category": "Interior cleaning",
+            "code": "020101",
+            "examples": [
+                "recycling/sorting newspapers for recycling",
+                "cleaning windows/washing walls",
+                "emptying trash cans/taking out the trash",
+                "cleaning floors/mopping floors",
+                "picking up the house/cleaning the house",
+                "cleaning cupboards",
+                "polishing furniture/dusting",
+                "picking up clothes",
+                "straightening up the house",
+                "washing floor",
+                "cleaning carpets/shampooing carpet",
+                "cleaning bathtub/cleaning toilet",
+                "tidying up",
+                "cleaning out closet",
+                "vacuuming/sweeping floors/sweeping",
+                "emptying ashtray",
+                "cleaning out drawers",
+                "picking up toys",
+                "cleaning bathrooms/cleaning bedroom",
+                "scrubbing",
+                "making the bed/changing sheets"
+            ]
+        },
+        {
+            "category": "Laundry",
+            "code": "020102",
+            "examples": [
+                "bringing in washing/laundry",
+                "putting towels in bathroom",
+                "washing curtains",
+                "sorting laundry/folding clean laundry",
+                "hand washing clothing",
+                "removing lint from dryer",
+                "hanging clothes on clothesline",
+                "putting clean laundry away",
+                "putting out clean towels",
+                "taking clothes off the line",
+                "adding fabric softener",
+                "doing laundry/checking wash",
+                "folding clothes/hanging clothes",
+                "ironing",
+                "putting laundry in washer/dryer",
+                "taking clothes out of washer",
+                "treating stains/spot treating clothes"
+            ]
+        },
+        {
+            "category": "Sewing, repairing, & maintaining textiles",
+            "code": "020103",
+            "examples": [
+                "sewing a new dress/clothing",
+                "sewing curtains/other hh items",
+                "cleaning shoes/sneakers",
+                "sewing on buttons/hemming garmets",
+                "knitting/crocheting blankets",
+                "knitting/crocheting sweaters, clothing",
+                "repairing/caring for clothes/hats/shoes/curtains",
+                "altering clothing/sewing hem",
+                "polishing shoes",
+                "crocheting/crocheting quilt"
+            ]
+        },
+        {
+            "category": "Storing interior hh items, inc. food",
+            "code": "020104",
+            "examples": [
+                "storing food/storing the groceries",
+                "boxing things up for storage",
+                "putting away the groceries/putting shopping away",
+                "moving stuff to attic/basement",
+                "putting away decorations/Christmas decorations/holiday items"
+            ]
+        },
+        {
+            "category": "Housework, not elsewhere classified",
+            "code": "020199"
+        },
+        {
+            "category": "Food and drink preparation",
+            "code": "020201",
+            "examples": [
+                "smoking fish",
+                "making a gingerbread house",
+                "putting icing on cake",
+                "making jam/bottling fruit",
+                "mixing/heating up baby formula",
+                "chopping/slicing vegetables",
+                "thawing frozen food",
+                "dehydrating food/drying food",
+                "packing food/lunches/picnics",
+                "canning food/preserving food",
+                "baking/cooking/broiling/boiling",
+                "getting a drink/pouring water in glass",
+                "baking Christmas cookies",
+                "preparing food for company/guests",
+                "mixing drinks",
+                "butchering/carving/salting meat",
+                "heating food up/cooking meals",
+                "boiling water",
+                "making coffee/tea",
+                "preparing salad",
+                "defrosting",
+                "peeling potatoes",
+                "breast-pumping",
+                "preparing food for other hh members",
+                "baking a cake/baking biscuits",
+                "cooking dinner",
+                "brewing beer or wine",
+                "putting roast in oven",
+                "making baby food"
+            ]
+        },
+        {
+            "category": "Food presentation",
+            "code": "020202",
+            "examples": [
+                "polishing silver",
+                "putting out condiments",
+                "serving a meal/serving hors d'oeuvres",
+                "passing out drinks",
+                "setting the table",
+                "filling salt/pepper/sugar",
+                "garnishing food"
+            ]
+        },
+        {
+            "category": "Kitchen and food clean-up",
+            "code": "020203",
+            "examples": [
+                "cleaning microwave oven",
+                "loading the dishwasher/emptying dishwasher",
+                "mopping the kitchen floor",
+                "washing/drying dishes",
+                "rinsing dishes/washing pots and pans",
+                "cleaning high chair",
+                "cleaning refrigerator",
+                "throwing away leftovers",
+                "cleaning kitchen cupboard",
+                "cleaning up after a meal/clearing the table",
+                "putting leftovers away",
+                "cleaning freezer/defrosting freezer",
+                "cleaning up the kitchen only",
+                "cleaning up plates and food",
+                "wiping table",
+                "putting dishes away",
+                "cleaning oven/stove/barbecue grill"
+            ]
+        },
+        {
+            "category": "Food & drink prep, presentation, & clean-up, not elsewhere classified",
+            "code": "020299"
+        },
+        {
+            "category": "Interior arrangement, decoration, & repairs",
+            "code": "020301",
+            "examples": [
+                "replacing fuses",
+                "hanging curtains/wallpaper",
+                "hanging blinds/shades",
+                "fumigating house",
+                "measuring windows for curtains",
+                "putting up Christmas lights (inside)",
+                "setting up a manger (inside)",
+                "fixing leaks",
+                "hanging Christmas stockings",
+                "taking down towel bars",
+                "installing carpet",
+                "setting mousetraps",
+                "decorating the Christmas tree",
+                "refitting kitchen/bathroom",
+                "changing light bulbs",
+                "carving jack-o-lanterns",
+                "moving/rearranging furniture",
+                "putting up shelves",
+                "stripping wallpaper",
+                "hanging pictures",
+                "laying linoleum/tile/wood floors",
+                "putting up Christmas decorations (inside)",
+                "decorating",
+                "plastering",
+                "setting up menorah candles (inside)",
+                "making plumbing improvements",
+                "remodeling interior of house",
+                "painting",
+                "stripping paint"
+            ]
+        },
+        {
+            "category": "Building and repairing furniture",
+            "code": "020302",
+            "examples": [
+                "changing cabinet hardware",
+                "repairs to furniture",
+                "painting furniture",
+                "refinishing furniture",
+                "stripping furniture",
+                "reupholstering furniture",
+                "refinishing wood furniture",
+                "assembling furniture",
+                "making furniture",
+                "making cabinets",
+                "staining wood furniture",
+                "sanding wood furniture"
+            ]
+        },
+        {
+            "category": "Heating and cooling",
+            "code": "020303",
+            "examples": [
+                "changing furnace filter",
+                "setting the fire",
+                "bringing in wood/kindling",
+                "chopping wood",
+                "installing fireplace",
+                "collecting wood",
+                "stacking firewood",
+                "lighting fireplace",
+                "filling heater with fuel",
+                "shoveling coal",
+                "installing window AC unit",
+                "installing wood burning stove",
+                "opening/closing windows"
+            ]
+        },
+        {
+            "category": "Interior maintenance, repair, & decoration, not elsewhere classified",
+            "code": "020399"
+        },
+        {
+            "category": "Exterior cleaning",
+            "code": "020401",
+            "examples": [
+                "putting away bicycles",
+                "picking up trash that blew into yard",
+                "removing ice from walkways",
+                "sweeping garage",
+                "washing outside windows",
+                "cleaning chimney",
+                "shoveling snow",
+                "sweeping steps",
+                "cleaning gutters",
+                "sweeping sidewalk",
+                "putting away outside toys",
+                "sweeping deck/patio/porch",
+                "cleaning shed",
+                "cleaning garage",
+                "putting away yard equipment"
+            ]
+        },
+        {
+            "category": "Exterior repair, improvements, & decoration",
+            "code": "020402",
+            "examples": [
+                "painting house exterior",
+                "building a deck",
+                "painting or staining fence",
+                "building a shed",
+                "putting new roof on house",
+                "fixing the roof",
+                "hanging flags",
+                "staining house exterior",
+                "replacing screens",
+                "fixing weatherboards",
+                "installing a gate or fence",
+                "setting up garden furniture",
+                "decorating outside for parties",
+                "paving or blacktopping",
+                "building a garage/carport",
+                "making structural additions",
+                "painting/staining porch/deck",
+                "putting new roof on garage",
+                "adding another room to house",
+                "repairing wind chimes",
+                "decorating outside for holidays",
+                "putting up Christmas decorations (outside)",
+                "hanging up wind chimes",
+                "hanging outdoor lights",
+                "screening in a porch",
+                "fixing broken windows",
+                "working on boat lift",
+                "building a fence",
+                "fixing mailbox",
+                "putting up outdoor holiday decorations",
+                "putting up Christmas lights (outside)",
+                "repairing boat dock",
+                "fixing bird feeder",
+                "hanging address numbers"
+            ]
+        },
+        {
+            "category": "Exterior maintenance, repair & decoration, not elsewhere classified",
+            "code": "020499"
+        },
+        {
+            "category": "Lawn, garden, and houseplant care",
+            "code": "020501",
+            "examples": [
+                "mowing the lawn",
+                "fertilizing garden",
+                "gardening",
+                "hunting mushrooms",
+                "mulching",
+                "planting fruit tree",
+                "watering lawn/garden",
+                "planting beans",
+                "pruning tree",
+                "weeding flower garden",
+                "fertilizing the lawn",
+                "cleaning the yard",
+                "gathering nuts",
+                "picking up branches, twigs",
+                "seeding",
+                "pruning shrubs/flowers",
+                "sowing flower or vegetable seeds",
+                "planting",
+                "weeding vegetable garden",
+                "turning sprinkler on or off",
+                "collecting eggs, honey",
+                "spraying rose bushes",
+                "watering outdoor plants",
+                "adding chemicals to lawn",
+                "applying pesticides",
+                "blowing leaves",
+                "edging",
+                "putting snail killer around vegetables",
+                "weeding",
+                "watering houseplants",
+                "tying up tomatoes",
+                "disposing/recycling lawn clippings",
+                "cutting the grass",
+                "trimming branches/hedges",
+                "spreading mulch",
+                "picking fruit and vegetables",
+                "planting tomatoes",
+                "laying paving stones",
+                "spraying for bugs",
+                "raking leaves",
+                "putting pesticides on lawn",
+                "doing yard work",
+                "spraying fruit trees",
+                "planting fruit and vegetables",
+                "digging in the vegetable garden"
+            ]
+        },
+        {
+            "category": "Ponds, pools, and hot tubs",
+            "code": "020502",
+            "examples": [
+                "putting in a pond, pool, hot tub",
+                "chlorinating the pool",
+                "winterizing pool",
+                "draining pool",
+                "cleaning the pond, pool, hot tub",
+                "testing ph in water",
+                "adding chemicals to hot tub",
+                "turning on/off the hot tub",
+                "filling the pool",
+                "adding chemicals to pool",
+                "repairing pond, pool, hot tub"
+            ]
+        },
+        {
+            "category": "Lawn and garden, not elsewhere classified",
+            "code": "020599"
+        },
+        {
+            "category": "Care for animals and pets (not veterinary care)",
+            "code": "020601",
+            "examples": [
+                "watching kittens/puppies being born",
+                "burying animals",
+                "feeding a stray",
+                "petting animals",
+                "changing dog's water",
+                "caring for household pets",
+                "feeding fish",
+                "feeding/watering pets",
+                "feeding squirrels",
+                "visiting an animal shelter to select pet",
+                "feeding a raccoon",
+                "clipping cat's claws",
+                "putting together rabbit pen",
+                "feeding horses",
+                "brushing dog",
+                "filling the bird feeder",
+                "bathing dog",
+                "feeding cat",
+                "caring for an orphaned animal",
+                "feeding birds",
+                "grooming pets",
+                "feeding rabbit",
+                "grooming horse",
+                "feeding ducks",
+                "cleaning the litter box",
+                "feeding guinea pig",
+                "nursing a sick animal",
+                "letting the dog out",
+                "cleaning up after pets",
+                "clipping dog's nails",
+                "adopting a pet",
+                "tending a wounded bird",
+                "feeding the dog",
+                "providing medical care to pets"
+            ]
+        },
+        {
+            "category": "Walking / exercising / playing with animals",
+            "code": "020602",
+            "examples": [
+                "exercising pets",
+                "playing with animals",
+                "taking pets for a walk",
+                "playing with the dog",
+                "walking the dog"
+            ]
+        },
+        {
+            "category": "Pet and animal care, not elsewhere classified",
+            "code": "020699"
+        },
+        {
+            "category": "Vehicle repair and maintenance (by self)",
+            "code": "020701",
+            "examples": [
+                "checking fluids",
+                "cleaning camper/RV",
+                "tuning up vehicles",
+                "checking tire pressure",
+                "rebuilding engine",
+                "putting on registration stickers",
+                "cleaning boat",
+                "cleaning/vacuuming vehicles",
+                "changing oil",
+                "charging battery",
+                "changing spark plugs",
+                "putting new chain on bicycle",
+                "putting protective cover on vehicle",
+                "adding oil",
+                "replacing brakes",
+                "fixing motorcycle",
+                "checking to make sure car was locked",
+                "doing a valve job",
+                "assembling bicycle",
+                "installing car CD player",
+                "changing wheel on motorcycle",
+                "doing a ring job",
+                "overhauling engine",
+                "filling brake fluid",
+                "fixing bike",
+                "replacing vehicle taillights",
+                "filling radiator",
+                "washing/waxing cars or other vehicles",
+                "restoring car",
+                "putting air in tires",
+                "changing/rotating tires",
+                "adding equipment to vehicles",
+                "covering boat",
+                "scraping ice/snow off vehicle",
+                "installing a trailer hitch",
+                "putting on license plates/tags",
+                "putting car/vehicle in garage",
+                "replacing vehicle headlights",
+                "hooking up trailer to car/truck",
+                "installing car stereo/speakers",
+                "checking tires",
+                "winterizing boat",
+                "checking battery"
+            ]
+        },
+        {
+            "category": "Vehicles, not elsewhere classified",
+            "code": "020799"
+        },
+        {
+            "category": "Appliance, tool, and toy set-up, repair, & maintenance (by self)",
+            "code": "020801",
+            "examples": [
+                "installing a printer",
+                "changing batteries in appliances",
+                "repairing sporting equipment",
+                "installing a modem",
+                "maintaining tools and equipment",
+                "setting up or fixing computer",
+                "connecting washing machine/dryer",
+                "repairing toys",
+                "restringing tennis racket",
+                "charging batteries",
+                "hooking up satellite dish",
+                "cleaning tools and equipment",
+                "installing a scanner",
+                "setting/winding clocks",
+                "installing a fax machine",
+                "waxing skis",
+                "fixing household camera",
+                "repairing tools & equipment",
+                "installing appliances",
+                "hooking up stereo, VCR",
+                "setting up doll house",
+                "repairing appliances",
+                "sharpening knives/other tools",
+                "installing heating or A/C equipment",
+                "loading software on computer",
+                "cleaning/oiling lawnmowers",
+                "setting up toy train track"
+            ]
+        },
+        {
+            "category": "Appliances and tools, not elsewhere classified",
+            "code": "020899"
+        },
+        {
+            "category": "Financial management",
+            "code": "020901",
+            "examples": [
+                "checking/trading/buying/selling stocks",
+                "looking at bills",
+                "balancing the checkbook/checking receipts against bank statements",
+                "giving money to hh child or hh adult",
+                "filing receipts",
+                "paying the rent/mortgage/bills",
+                "checking bank account balance",
+                "filling out tax forms",
+                "using computer to pay bills",
+                "making a budget/using computer to keep budget",
+                "donating money",
+                "researching investments",
+                "writing checks",
+                "borrowing/lending money (not banking)"
+            ]
+        },
+        {
+            "category": "Household & personal organization and planning",
+            "code": "020902",
+            "examples": [
+                "unwrapping/opening packages",
+                "organizing/planning hh parties or hh events",
+                "planning household meals/menu",
+                "packing/unpacking bags or suitcase (for self)",
+                "Loading/unloading the car",
+                "looking at store purchases",
+                "getting organized for work (for self)",
+                "unloading groceries/shopping items",
+                "opening presents/gifts (alone)",
+                "organizing file cabinet",
+                "wrapping presents",
+                "dropping off/picking up household items",
+                "carrying in groceries",
+                "sorting books/sorting household items",
+                "making reservations",
+                "making dinner reservations",
+                "borrowing/lending household items",
+                "packing boxes for household move or trip",
+                "making photocopies (for self or hh)",
+                "assigning chores",
+                "unpacking/packing car for trip",
+                "making shopping lists",
+                "filling a Christmas stocking/Easter basket",
+                "organizing school stuff (for self)",
+                "unpacking/packing recreational vehicle for trip",
+                "labeling videos",
+                "organizing boxes in garage",
+                "sorting/doing/filling out paperwork",
+                "looking for misplaced items",
+                "putting pictures in albums",
+                "planning vacation/household trip"
+            ]
+        },
+        {
+            "category": "HH & personal mail & messages (except e-mail)",
+            "code": "020903",
+            "examples": [
+                "checking to see if mail came/getting mail in",
+                "mailing letters, payments",
+                "sending reg./cert. packages/mail/express mail",
+                "looking at/checking/sorting mail",
+                "signing for certified mail",
+                "collecting mail/reading mail",
+                "bringing in newspaper/mail",
+                "mailing/picking up letters or packages",
+                "writing Valentines/Christmas cards",
+                "addressing holiday cards",
+                "checking phone messages",
+                "writing letters/cards (personal or hh)",
+                "throwing away junk mail"
+            ]
+        },
+        {
+            "category": "HH & personal e-mail and messages",
+            "code": "020904",
+            "examples": [
+                "instant messaging (personal)",
+                "reading/sending e-mail (unspecified)",
+                "checking e-mail (personal or hh)",
+                "cleaning out e-mail inbox (personal or hh)",
+                "reading/sending e-mail (personal or hh)"
+            ]
+        },
+        {
+            "category": "Home security",
+            "code": "020905",
+            "examples": [
+                "locking up the house/locking up home",
+                "maintaining alarms/security systems",
+                "closing the blinds/curtains",
+                "installing/maintaining smoke detectors",
+                "breaking into a locked house",
+                "bolting doors/windows",
+                "checking/changing locks",
+                "breaking into home if locked out",
+                "locking doors, windows/turning out the lights",
+                "setting security alarm/installing alarms",
+                "closing house up"
+            ]
+        },
+        {
+            "category": "Relaxing and leisure, not elsewhere classified",
+            "code": "120399",
+            "examples": [
+                "looking at photos on computer or camera",
+                "looking at pictures in photo album"
+            ]
+        },
+        {
+            "category": "Attending performing arts",
+            "code": "120401",
+            "examples": [
+                "attending jazz bar",
+                "attending a concert",
+                "attending musicals",
+                "attending dance troupe performances",
+                "attending comedy club",
+                "attending plays",
+                "attending the ballet",
+                "attending opera",
+                "attending the theater"
+            ]
+        },
+        {
+            "category": "Attending museums",
+            "code": "120402",
+            "examples": [
+                "attending an art gallery",
+                "attending an arboretum",
+                "attending exhibitions",
+                "visiting the zoo",
+                "attending a botanical garden"
+            ]
+        },
+        {
+            "category": "Attending movies/film",
+            "code": "120403",
+            "examples": [
+                "attending the movies"
+            ]
+        },
+        {
+            "category": "Attending gambling establishments",
+            "code": "120404",
+            "examples": [
+                "attending a casino",
+                "gambling",
+                "playing craps",
+                "betting on the horses",
+                "playing keno"
+            ]
+        },
+        {
+            "category": "Biking",
+            "code": "130104",
+            "examples": [
+                "registering for a bike race",
+                "biking/mountain biking",
+                "spinning",
+                "riding a stationary bike"
+            ]
+        },
+        {
+            "category": "Playing billiards",
+            "code": "130105",
+            "examples": [
+                "playing snooker",
+                "shooting pool"
+            ]
+        },
+        {
+            "category": "Boating",
+            "code": "130106",
+            "examples": [
+                "crewing",
+                "sailing",
+                "canoeing",
+                "yachting",
+                "kayaking",
+                "rafting"
+            ]
+        },
+        {
+            "category": "Bowling",
+            "code": "130107",
+            "examples": [
+                "playing ten pins",
+                "playing duck pins"
+            ]
+        },
+        {
+            "category": "Climbing, spelunking, caving",
+            "code": "130108",
+            "examples": [
+                "rock climbing",
+                "mountain climbing"
+            ]
+        },
+        {
+            "category": "Dancing",
+            "code": "130109"
+        },
+        {
+            "category": "Participating in equestrian sports",
+            "code": "130110",
+            "examples": [
+                "horseback riding",
+                "playing polo",
+                "steeple chase"
+            ]
+        },
+        {
+            "category": "Fencing",
+            "code": "130111"
+        },
+        {
+            "category": "Fishing",
+            "code": "130112",
+            "examples": [
+                "clam-digging",
+                "ice fishing",
+                "talking to the boat captain",
+                "deep-sea fishing",
+                "fly fishing",
+                "crabbing"
+            ]
+        },
+        {
+            "category": "Playing football",
+            "code": "130113",
+            "examples": [
+                "playing touch football",
+                "talking to the football referee",
+                "playing flag football"
+            ]
+        },
+        {
+            "category": "Golfing",
+            "code": "130114",
+            "examples": [
+                "hitting balls at the driving range",
+                "practicing putting",
+                "playing the front 9",
+                "talking to the caddy",
+                "playing the back 9"
+            ]
+        },
+        {
+            "category": "Doing gymnastics",
+            "code": "130115",
+            "examples": [
+                "using the balance beam",
+                "using uneven bars",
+                "using parallel bars",
+                "talking to the gymnastics coach",
+                "tumbling",
+                "using the pommel horse"
+            ]
+        },
+        {
+            "category": "Hiking",
+            "code": "130116"
+        },
+        {
+            "category": "Playing hockey",
+            "code": "130117",
+            "examples": [
+                "playing field hockey",
+                "playing ice hockey",
+                "talking to the hockey coach"
+            ]
+        },
+        {
+            "category": "Hunting",
+            "code": "130118",
+            "examples": [
+                "hunting deer/elk",
+                "talking to the hunting guide",
+                "hunting ducks",
+                "hunting game"
+            ]
+        },
+        {
+            "category": "Participating in martial arts",
+            "code": "130119",
+            "examples": [
+                "doing kickboxing",
+                "doing tae kwon do",
+                "doing karate",
+                "talking to martial arts instructor"
+            ]
+        },
+        {
+            "category": "Playing racquet sports",
+            "code": "130120",
+            "examples": [
+                "talking to the tennis coach",
+                "playing racquetball",
+                "playing lacrosse",
+                "playing squash",
+                "playing badminton",
+                "playing handball",
+                "playing tennis"
+            ]
+        },
+        {
+            "category": "Participating in rodeo competitions",
+            "code": "130121",
+            "examples": [
+                "calf roping",
+                "barrel riding"
+            ]
+        },
+        {
+            "category": "Rollerblading",
+            "code": "130122",
+            "examples": [
+                "inline skating",
+                "roller-skating",
+                "skateboarding"
+            ]
+        },
+        {
+            "category": "Playing rugby",
+            "code": "130123"
+        },
+        {
+            "category": "Running",
+            "code": "130124",
+            "examples": [
+                "running on a treadmill",
+                "running a marathon",
+                "running cross country",
+                "running a race/organized run",
+                "jogging",
+                "talking to race officials"
+            ]
+        },
+        {
+            "category": "Skiing, ice skating, snowboarding",
+            "code": "130125",
+            "examples": [
+                "sledding",
+                "snow tubing"
+            ]
+        },
+        {
+            "category": "Playing soccer",
+            "code": "130126"
+        },
+        {
+            "category": "Softball",
+            "code": "130127",
+            "examples": [
+                "playing wiffle ball"
+            ]
+        },
+        {
+            "category": "Using cardiovascular equipment",
+            "code": "130128",
+            "examples": [
+                "using the Stairmaster",
+                "using the rowing machine",
+                "using the elliptical"
+            ]
+        },
+        {
+            "category": "Vehicle touring/racing",
+            "code": "130129",
+            "examples": [
+                "4-wheeling",
+                "riding in or driving a dune buggy",
+                "doing motocross",
+                "snowmobiling",
+                "riding in a go-cart",
+                "stock car racing",
+                "drag racing"
+            ]
+        },
+        {
+            "category": "Playing volleyball",
+            "code": "130130",
+            "examples": [
+                "playing Wally ball"
+            ]
+        },
+        {
+            "category": "Walking",
+            "code": "130131",
+            "examples": [
+                "speed walking",
+                "power walking",
+                "walking on a treadmill"
+            ]
+        },
+        {
+            "category": "Participating in water sports",
+            "code": "130132",
+            "examples": [
+                "boogie-boarding",
+                "playing water polo",
+                "water aerobics",
+                "waterskiing",
+                "river tubing",
+                "surfing",
+                "body surfing",
+                "diving",
+                "scuba diving",
+                "talking to the swimming coach",
+                "snorkeling",
+                "swimming"
+            ]
+        },
+        {
+            "category": "Weightlifting/strength training",
+            "code": "130133",
+            "examples": [
+                "bodybuilding",
+                "lifting weights"
+            ]
+        },
+        {
+            "category": "Working out, unspecified",
+            "code": "130134",
+            "examples": [
+                "doing cardio (unspecified)",
+                "stretching",
+                "doing calisthenics"
+            ]
+        },
+        {
+            "category": "Wrestling",
+            "code": "130135",
+            "examples": [
+                "Greco-Roman wrestling",
+                "talking to the wrestling referee",
+                "freestyle wrestling"
+            ]
+        },
+        {
+            "category": "Doing yoga",
+            "code": "130136",
+            "examples": [
+                "Pilates",
+                "talking to the yoga instructor"
+            ]
+        }
+    ]
+}
