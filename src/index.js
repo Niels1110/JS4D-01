@@ -230,9 +230,11 @@ leftBtn.addEventListener("click", function () {
   console.log("Click Left");
   if (currentStory < 1) {
     currentStory = 0;
-    console.log("End of story");
+    document.getElementById("time").textContent = "Before that, ";
   } else {
     currentStory = currentStory - 1;
+    document.getElementById("time").textContent = "Before that, ";
+
     updateStory(changeStory(currentStory));
   }
 });
@@ -243,7 +245,6 @@ rightBtn.addEventListener("click", function () {
     updateStory(changeStory(currentStory));
     document.getElementById("time").textContent = "After that, ";
   } else {
-    document.getElementById("time").textContent = "Before that, ";
     updateStory(createStory());
   }
 });
@@ -263,7 +264,7 @@ document.addEventListener("keyup", (event) => {
   if (key === "ArrowLeft") {
     if (currentStory < 1) {
       currentStory = 0;
-      console.log("End of story");
+      document.getElementById("time").textContent = "Before that, ";
     } else {
       currentStory = currentStory - 1;
       document.getElementById("time").textContent = "Before that, ";
