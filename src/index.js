@@ -13,19 +13,19 @@ let currentStory = 0;
 
 // Fetch data and convert it to JSON
 const fetchWords = async () => {
-  let adverbResp = await fetch("/data/data_adverbs.json"); // Make a promise
+  let adverbResp = await fetch("data/data_adverbs.json"); // Make a promise
   let adverbs2JSON = await adverbResp.json(); // Convert the result of the promise to JSON
 
-  let activityResp = await fetch("/data/data_activities.json");
+  let activityResp = await fetch("data/data_activities.json");
   let activities2JSON = await activityResp.json();
 
-  let nameResp = await fetch("/data/data_firstnames.json");
+  let nameResp = await fetch("data/data_firstnames.json");
   let names2JSON = await nameResp.json();
 
-  let descriptionResp = await fetch("/data/data_descriptions.json");
+  let descriptionResp = await fetch("data/data_descriptions.json");
   let descriptions2JSON = await descriptionResp.json();
 
-  let occupationResp = await fetch("/data/data_occupation.json");
+  let occupationResp = await fetch("data/data_occupation.json");
   let occupations2JSON = await occupationResp.json();
 
   return {
