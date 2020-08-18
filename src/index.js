@@ -241,7 +241,9 @@ rightBtn.addEventListener("click", function () {
   currentStory = currentStory + 1;
   if (currentStory < stories.length) {
     updateStory(changeStory(currentStory));
+    document.getElementById("time").textContent = "After that, ";
   } else {
+    document.getElementById("time").textContent = "Before that, ";
     updateStory(createStory());
   }
 });
